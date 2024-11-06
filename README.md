@@ -7,6 +7,7 @@ Session manager for tmux, which allows users to save and load tmux sessions thro
 [![Build status](https://github.com/tmux-python/tmuxp/workflows/tests/badge.svg)](https://github.com/tmux-python/tmuxp/actions?query=workflow%3A%22tests%22)
 [![Code Coverage](https://codecov.io/gh/tmux-python/tmuxp/branch/master/graph/badge.svg)](https://codecov.io/gh/tmux-python/tmuxp)
 [![License](https://img.shields.io/github/license/tmux-python/tmuxp.svg)](https://github.com/tmux-python/tmuxp/blob/master/LICENSE)
+[![Gurubase](https://img.shields.io/badge/Gurubase-Ask%20tmuxp%20Guru-006BFF)](https://gurubase.io/g/tmuxp)
 
 **New to tmux?** [The Tao of tmux](https://leanpub.com/the-tao-of-tmux)
 is available on Leanpub and [Amazon Kindle](http://amzn.to/2gPfRhC).
